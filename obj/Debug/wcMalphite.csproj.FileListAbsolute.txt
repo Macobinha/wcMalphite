@@ -1,0 +1,10 @@
+c:\users\elias\documents\visual studio 2013\Projects\wcMalphite\wcMalphite\bin\Debug\wcMalphite.exe.config
+c:\users\elias\documents\visual studio 2013\Projects\wcMalphite\wcMalphite\bin\Debug\wcMalphite.exe
+c:\users\elias\documents\visual studio 2013\Projects\wcMalphite\wcMalphite\bin\Debug\wcMalphite.pdb
+c:\users\elias\documents\visual studio 2013\Projects\wcMalphite\wcMalphite\bin\Debug\LeagueSharp.Common.dll
+c:\users\elias\documents\visual studio 2013\Projects\wcMalphite\wcMalphite\bin\Debug\LeagueSharp.dll
+c:\users\elias\documents\visual studio 2013\Projects\wcMalphite\wcMalphite\bin\Debug\LX-Orbwalker.dll
+c:\users\elias\documents\visual studio 2013\Projects\wcMalphite\wcMalphite\bin\Debug\SharpDX.dll
+c:\users\elias\documents\visual studio 2013\Projects\wcMalphite\wcMalphite\obj\Debug\wcMalphite.csprojResolveAssemblyReference.cache
+c:\users\elias\documents\visual studio 2013\Projects\wcMalphite\wcMalphite\obj\Debug\wcMalphite.exe
+c:\users\elias\documents\visual studio 2013\Projects\wcMalphite\wcMalphite\obj\Debug\wcMalphite.pdb
